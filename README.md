@@ -1,16 +1,28 @@
-## Hi there 👋
+# Welcome there 👋
 
-<!--
-**L3yu3D0r/L3yu3D0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Description
 
-Here are some ideas to get you started:
+### Who am I
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm L3yu3D0r, you can call me "L3yu3D0r", "L3" or "330". And another name is "Pothos" which is my favourite plant.
+
+I'm a/an OIer.
+
+## How to contact me
+
+Please contact me with reasons, like "L3yu3D0r, I want to ask a question".
+
+| Platform | My URL / ID | Online Frequency | Recommendation Level |
+| :------: | :---------: | :--------------: | :------------------: |
+| Telenet QQ | 3554163683 ( QQ Number ) | Every Day | ★★★★★ |
+| Luogu | https://www.luogu.com.cn/user/1304643 | Every Day | ★★★★★ |
+| Github | https://github.com/L3yu3D0r | Usually | ★★★★★
+| Gitlab | https://gitlab.com/L3yu3D0r | Seldom | ★ |
+| Codeberg | https://codeberg.org/L3yu3D0r | Seldom | ★ |
+| Bilibili | https://space.bilibili.com/1188660894 | Every Day | ★★ |
+| Wikidot | https://www.wikidot.com/user:info/Omega89a | Sometimes | ★ |
+| Genshin Impact (Bilibili Server) | 525784577 ( User ID ) | Seldom | ★ |
+| Honkai Star Rail (Bilibili Server) | 502895689 ( User ID ) | Seldom | ★ |
+| Ubisoft Connect | L3yu3D0r ( Name ) | Often | ★★ |
+| mail.163.com | LiYD13359710397@163.com | Often | ★★★ |
+| mail.qq.com | 3554163683@qq.com | Usually | ★★★★ |
