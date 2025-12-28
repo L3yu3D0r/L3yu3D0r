@@ -17,7 +17,6 @@ Please contact me with reasons, like "L3yu3D0r, I want to ask a question".
 | Telenet QQ | 3554163683 ( QQ Number ) | Every Day | ★★★★★ |
 | Luogu | https://www.luogu.com.cn/user/1304643 | Every Day | ★★★★★ |
 | Github | https://github.com/L3yu3D0r | Usually | ★★★★★
-| Gitlab | https://gitlab.com/L3yu3D0r | Seldom | ★ |
 | Codeberg | https://codeberg.org/L3yu3D0r | Seldom | ★ |
 | Bilibili | https://space.bilibili.com/1188660894 | Every Day | ★★ |
 | Wikidot | https://www.wikidot.com/user:info/Omega89a | Sometimes | ★ |
