@@ -4,7 +4,7 @@
 
 ### Who am I
 
-I'm L3yu3D0r, you can call me "L3yu3D0r", "L3" or "330". And another name is "Pothos" which is my favourite plant.
+I'm L3yu3D0r, you can call me "L3yu3D0r", "L3" or "330". And another name is "Pothos" whose pronunciation is similar to my name.
 
 I'm a/an OIer.
 
@@ -25,3 +25,7 @@ Please contact me with reasons, like "L3yu3D0r, I want to ask a question".
 | Ubisoft Connect | L3yu3D0r ( Name ) | Often | ★★ |
 | mail.163.com | LiYD13359710397@163.com | Often | ★★★ |
 | mail.qq.com | 3554163683@qq.com | Usually | ★★★★ |
+
+## Some notices
+
+All of my repository are unfinished. Welcome contributions!
