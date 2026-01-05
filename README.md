@@ -29,3 +29,5 @@ Please contact me with reasons, like "L3yu3D0r, I want to ask a question".
 ## Some notices
 
 All of my repository are unfinished. Welcome contributions!
+
+Most of languages, C++ 17 is best for me, so I use it a lot in writing codes. That means, I'll choose it to make repositories and I'll contribute repositories which are developed by C++ 17.
