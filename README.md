@@ -10,7 +10,7 @@ I'm a/an OIer.
 
 ## How to contact me
 
-Please contact me with reasons, like "L3yu3D0r, I want to ask a question".
+Please contact me with reasons.
 
 | Platform | My URL / ID | Online Frequency | Recommendation Level |
 | :------: | :---------: | :--------------: | :------------------: |
@@ -30,4 +30,4 @@ Please contact me with reasons, like "L3yu3D0r, I want to ask a question".
 
 All of my repository are unfinished. Welcome contributions!
 
-Most of languages, C++ 17 is best for me, so I use it a lot in writing codes. That means, I'll choose it to make repositories and I'll contribute repositories which are developed by C++ 17.
+Most of languages, C++ 17 is best for me, so I use it a lot in writing codes.
