@@ -30,4 +30,4 @@ Please contact me with reasons.
 
 All of my repository are unfinished. Welcome contributions!
 
-Most of languages, C++ 17 is best for me, so I use it a lot in writing codes.
+Most of languages, C++ 14/17 are the best for me, so I use it a lot in writing codes. Other version C++ and C are optional.
